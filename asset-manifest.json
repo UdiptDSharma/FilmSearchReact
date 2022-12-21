@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/UdiptDSharma/FilmSearchReact/static/css/main.f3eea3f5.css",
+    "main.js": "/UdiptDSharma/FilmSearchReact/static/js/main.3005929c.js",
+    "index.html": "/UdiptDSharma/FilmSearchReact/index.html",
+    "static/media/search.svg": "/UdiptDSharma/FilmSearchReact/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.f3eea3f5.css.map": "/UdiptDSharma/FilmSearchReact/static/css/main.f3eea3f5.css.map",
+    "main.3005929c.js.map": "/UdiptDSharma/FilmSearchReact/static/js/main.3005929c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3eea3f5.css",
+    "static/js/main.3005929c.js"
+  ]
+}
